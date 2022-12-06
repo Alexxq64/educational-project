@@ -5,6 +5,6 @@ public class Main {
         for (int i: arr) {
             summa += i;
         }
-        System.out.println(summa / arr.length);
+        System.out.println("Average: " + summa / arr.length);
     }
 }
